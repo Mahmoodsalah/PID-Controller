@@ -1,0 +1,86 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/PID.cpp
+PID.h
+E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/PID.h
+iostream
+-
+vector
+-
+
+E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/PID.h
+
+E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/json.hpp
+algorithm
+-
+array
+-
+cassert
+-
+cctype
+-
+ciso646
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdlib
+-
+cstring
+-
+forward_list
+-
+functional
+-
+initializer_list
+-
+iomanip
+-
+iostream
+-
+iterator
+-
+limits
+-
+locale
+-
+map
+-
+memory
+-
+numeric
+-
+sstream
+-
+stdexcept
+-
+string
+-
+type_traits
+-
+utility
+-
+vector
+-
+
+E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/main.cpp
+uWS/uWS.h
+-
+iostream
+-
+json.hpp
+E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/json.hpp
+PID.h
+E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/PID.h
+vector
+-
+

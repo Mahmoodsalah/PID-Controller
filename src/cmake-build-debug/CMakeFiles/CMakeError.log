@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_c3a32/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_c3a32.dir\build.make CMakeFiles/cmTC_c3a32.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4\', needed by 'CMakeFiles/cmTC_c3a32.dir/feature_tests.c.obj'.  Stop.
+Makefile:125: recipe for target 'cmTC_c3a32/fast' failed
+mingw32-make.exe: *** [cmTC_c3a32/fast] Error 2
+
+
+
+Detecting CXX [-std=c++14] compiler features failed to compile with the following output:
+Change Dir: E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_745c1/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_745c1.dir\build.make CMakeFiles/cmTC_745c1.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4 # PID Controler/CarND-PID-Control-Project-master/src/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'E:/Me/Courses/UDACITY Self-Drive Car Nanodegree/TERM 2/Projects/Project 4\', needed by 'CMakeFiles/cmTC_745c1.dir/feature_tests.cxx.obj'.  Stop.
+Makefile:125: recipe for target 'cmTC_745c1/fast' failed
+mingw32-make.exe: *** [cmTC_745c1/fast] Error 2
+
+
+
